@@ -1,2 +1,5 @@
 [core]
     analytics = false
+    remote = myremote
+['remote "myremote"']
+    url = https://stdcydatalake001.blob.core.windows.net/applications/dvc_repo
